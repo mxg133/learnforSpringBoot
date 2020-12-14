@@ -11,20 +11,21 @@
         <module name="spring-boot04-web-restfulcrud" />
         <module name="spring-boot-04-web-jsp" />
         <module name="spring-boot-02-config" />
-        <module name="spring-boot-06-data-mybatis" />
         <module name="zzz-spring-boot-starter-autoconfigurare" />
         <module name="spring-boot-15-security" />
         <module name="spring-boot-01-helloword" />
         <module name="spring-boot-04-web-restfulcrud" />
         <module name="spring-boot-12-amqp" />
         <module name="spring-boot-11-cache" />
+        <module name="spring-boot-06-data-jpa" />
         <module name="spring-boot-06-data-jdbc" />
         <module name="spring-boot-07-listener" />
         <module name="spring-boot-17-deply" />
+        <module name="spring-boot-18-actuator" />
         <module name="spring-boot-02-config-02" />
         <module name="spring-boot-01-helloworld-quick" />
         <module name="spring-boot-14-task" />
-        <module name="spring-boot-06-data-jpa" />
+        <module name="spring-boot-06-data-mybatis" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -47,6 +48,7 @@
       <module name="spring-boot-14-task" target="11" />
       <module name="spring-boot-15-security" target="11" />
       <module name="spring-boot-17-deply" target="11" />
+      <module name="spring-boot-18-actuator" target="11" />
       <module name="spring-boot04-web-restfulcrud" target="11" />
       <module name="zzz-spring-boot-starter" target="1.5" />
       <module name="zzz-spring-boot-starter-autoconfigurare" target="11" />
@@ -72,6 +74,7 @@
       <module name="spring-boot-14-task" options="-parameters" />
       <module name="spring-boot-15-security" options="-parameters" />
       <module name="spring-boot-17-deply" options="-parameters" />
+      <module name="spring-boot-18-actuator" options="-parameters" />
       <module name="spring-boot04-web-restfulcrud" options="-parameters" />
       <module name="zzz-spring-boot-starter-autoconfigurare" options="-parameters" />
     </option>

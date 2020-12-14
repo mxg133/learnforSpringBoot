@@ -20,6 +20,7 @@
       <module fileurl="file://$PROJECT_DIR$/spring-boot-14-task/spring-boot-14-task.iml" filepath="$PROJECT_DIR$/spring-boot-14-task/spring-boot-14-task.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-15-security/spring-boot-15-security.iml" filepath="$PROJECT_DIR$/spring-boot-15-security/spring-boot-15-security.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-17-deply/spring-boot-17-deply.iml" filepath="$PROJECT_DIR$/spring-boot-17-deply/spring-boot-17-deply.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-18-actuator/spring-boot-18-actuator.iml" filepath="$PROJECT_DIR$/spring-boot-18-actuator/spring-boot-18-actuator.iml" />
     </modules>
   </component>
 </project>

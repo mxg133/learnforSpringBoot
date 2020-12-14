@@ -24,6 +24,7 @@
         <option value="$PROJECT_DIR$/spring-boot-14-task/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-15-security/pom.xml" />
         <option value="$PROJECT_DIR$/spring-boot-17-deply/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-18-actuator/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

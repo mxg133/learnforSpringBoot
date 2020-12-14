@@ -10,7 +10,39 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e7244fd2-aad0-4eac-a7fb-5e3eb3fb1650" name="Default Changelist" comment="2020-12-13" />
+    <list default="true" id="e7244fd2-aad0-4eac-a7fb-5e3eb3fb1650" name="Default Changelist" comment="2020-12-14">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_micrometer_micrometer_core_1_6_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_55_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_latencyutils_LatencyUtils_2_0_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_actuator_autoconfigure_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_actuator_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_2_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_4_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/spring-boot-18-actuator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/src/main/java/com/zzz/actuator/SpringBoot18ActuatorApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/src/main/java/com/zzz/actuator/health/MyAppHealthIndicator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/src/main/resources/git.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-boot-18-actuator/src/test/java/com/zzz/actuator/SpringBoot18ActuatorApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,7 +120,7 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="11" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/xxx/springboot" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-17-deply/src/main/resources/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-18-actuator/src/main/java/com/zzz/actuator" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.3218391" />
@@ -96,25 +128,25 @@
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/resources/templates" />
-      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/java/com/zzz/deply" />
-      <recent name="$PROJECT_DIR$/spring-boot-12-amqp/src/main/java/com/zzz/springboot12amqp" />
-      <recent name="$PROJECT_DIR$/spring-boot-11-cache/src/main/java/com/zzz/springboot/config" />
-      <recent name="$PROJECT_DIR$/spring-boot-11-cache/src/main/java/com/zzz/springboot/service" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.zzz.springboot.config" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql" />
       <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud4/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud3/src/main/resources/static" />
       <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud2/src/main/resources/templates" />
       <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud2/src/main/resources/static" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zzz.springboot.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-18-actuator/src/main/java/com/zzz/actuator" />
+      <recent name="$PROJECT_DIR$/spring-boot-18-actuator/src/main/resources" />
+      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/java/com/zzz/deply" />
+      <recent name="$PROJECT_DIR$/spring-boot-12-amqp/src/main/java/com/zzz/springboot12amqp" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -124,7 +156,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBoot17DeplyApplication">
+  <component name="RunManager" selected="Spring Boot.SpringBoot18ActuatorApplication">
     <configuration name="SpringBoot11CacheApplicationTests.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="spring-boot-11-cache" />
       <extension name="coverage">
@@ -317,6 +349,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SpringBoot18ActuatorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-18-actuator" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.actuator.SpringBoot18ActuatorApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.SpringBoot12AmqpApplicationTests.createExchange" />
@@ -386,6 +425,8 @@
       <workItem from="1607918296125" duration="544000" />
       <workItem from="1607918848360" duration="324000" />
       <workItem from="1607919176689" duration="5000" />
+      <workItem from="1607919184116" duration="498000" />
+      <workItem from="1607924977410" duration="3454000" />
     </task>
     <task id="LOCAL-00001" summary="2020-12-3">
       <created>1606988266814</created>
@@ -506,7 +547,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607860889292</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="2020-12-14">
+      <created>1607919524899</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1607919524899</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -537,7 +585,8 @@
     <MESSAGE value="2020-12-11" />
     <MESSAGE value="2020-12-12" />
     <MESSAGE value="2020-12-13" />
-    <option name="LAST_COMMIT_MESSAGE" value="2020-12-13" />
+    <MESSAGE value="2020-12-14" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-14" />
   </component>
   <component name="WindowStateProjectService">
     <state x="708" y="107" key="#Inspections" timestamp="1607580453437">
@@ -581,54 +630,54 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="598" y="312" width="657" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.827@0.23.1440.827" timestamp="1607247468968" />
-    <state x="742" y="340" key="Github.ShareDialog" timestamp="1607860769043">
+    <state x="742" y="340" key="Github.ShareDialog" timestamp="1607919587993">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="742" y="340" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1607860769043" />
+    <state x="742" y="340" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1607919587993" />
     <state x="493" y="141" key="Github.UntrackedFilesDialog" timestamp="1607860804621">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="493" y="141" key="Github.UntrackedFilesDialog/0.23.1440.827@0.23.1440.827" timestamp="1607860804621" />
-    <state width="683" height="157" key="GridCell.Tab.0.bottom" timestamp="1607919149715">
+    <state width="683" height="240" key="GridCell.Tab.0.bottom" timestamp="1607927024300">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="335" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607668217511" />
-    <state width="683" height="157" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
-    <state width="683" height="157" key="GridCell.Tab.0.center" timestamp="1607919149714">
+    <state width="683" height="240" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607927024300" />
+    <state width="683" height="240" key="GridCell.Tab.0.center" timestamp="1607927024300">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="335" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607668217509" />
-    <state width="683" height="157" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
-    <state width="683" height="157" key="GridCell.Tab.0.left" timestamp="1607919149714">
+    <state width="683" height="240" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1607927024300" />
+    <state width="683" height="240" key="GridCell.Tab.0.left" timestamp="1607927024299">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="335" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607668217508" />
-    <state width="683" height="157" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
-    <state width="683" height="157" key="GridCell.Tab.0.right" timestamp="1607919149714">
+    <state width="683" height="240" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1607927024299" />
+    <state width="683" height="240" key="GridCell.Tab.0.right" timestamp="1607927024300">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1398" height="335" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607668217510" />
-    <state width="683" height="157" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
-    <state width="683" height="157" key="GridCell.Tab.1.bottom" timestamp="1607919149716">
+    <state width="683" height="240" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1607927024300" />
+    <state width="683" height="240" key="GridCell.Tab.1.bottom" timestamp="1607927024302">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1036" height="195" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607580589918" />
-    <state width="683" height="157" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607919149716" />
-    <state width="683" height="157" key="GridCell.Tab.1.center" timestamp="1607919149715">
+    <state width="683" height="240" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607927024302" />
+    <state width="683" height="240" key="GridCell.Tab.1.center" timestamp="1607927024301">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1036" height="195" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607580589917" />
-    <state width="683" height="157" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
-    <state width="683" height="157" key="GridCell.Tab.1.left" timestamp="1607919149715">
+    <state width="683" height="240" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1607927024301" />
+    <state width="683" height="240" key="GridCell.Tab.1.left" timestamp="1607927024301">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1036" height="195" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607580589916" />
-    <state width="683" height="157" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
-    <state width="683" height="157" key="GridCell.Tab.1.right" timestamp="1607919149716">
+    <state width="683" height="240" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1607927024301" />
+    <state width="683" height="240" key="GridCell.Tab.1.right" timestamp="1607927024302">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state width="1036" height="195" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607580589917" />
-    <state width="683" height="157" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1607919149716" />
+    <state width="683" height="240" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1607927024302" />
     <state width="668" height="195" key="GridCell.Tab.2.bottom" timestamp="1607499212542">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
@@ -685,10 +734,10 @@
       <screen x="0" y="23" width="1440" height="827" />
     </state>
     <state x="540" y="23" width="792" height="604" key="dock-window-1/0.23.1440.827@0.23.1440.827" timestamp="1607399365976" />
-    <state x="578" y="103" width="862" height="665" key="new project wizard" timestamp="1607918466055">
+    <state x="578" y="103" width="862" height="665" key="new project wizard" timestamp="1607925082707">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state x="578" y="103" width="862" height="665" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1607918466055" />
+    <state x="578" y="103" width="862" height="665" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1607925082707" />
     <state x="687" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1607764581200">
       <screen x="0" y="23" width="1440" height="827" />
     </state>
