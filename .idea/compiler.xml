@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="spring-boot-03-logging" />
+        <module name="spring-boot-04-web-restfulcrud111111" />
+        <module name="spring-boot04-web-restfulcrud" />
+        <module name="spring-boot-04-web-jsp" />
+        <module name="spring-boot-02-config" />
+        <module name="spring-boot-06-data-mybatis" />
+        <module name="zzz-spring-boot-starter-autoconfigurare" />
+        <module name="spring-boot-15-security" />
+        <module name="spring-boot-01-helloword" />
+        <module name="spring-boot-04-web-restfulcrud" />
+        <module name="spring-boot-12-amqp" />
+        <module name="spring-boot-11-cache" />
+        <module name="spring-boot-06-data-jdbc" />
+        <module name="spring-boot-07-listener" />
+        <module name="spring-boot-17-deply" />
+        <module name="spring-boot-02-config-02" />
+        <module name="spring-boot-01-helloworld-quick" />
+        <module name="spring-boot-14-task" />
+        <module name="spring-boot-06-data-jpa" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-boot-01-helloword" target="1.6" />
+      <module name="spring-boot-01-helloworld-quick" target="11" />
+      <module name="spring-boot-02-config" target="11" />
+      <module name="spring-boot-02-config-02" target="11" />
+      <module name="spring-boot-03-logging" target="11" />
+      <module name="spring-boot-04-web-jsp" target="11" />
+      <module name="spring-boot-04-web-restfulcrud" target="11" />
+      <module name="spring-boot-04-web-restfulcrud1" target="11" />
+      <module name="spring-boot-04-web-restfulcrud111111" target="11" />
+      <module name="spring-boot-06-data-jdbc" target="11" />
+      <module name="spring-boot-06-data-jpa" target="11" />
+      <module name="spring-boot-06-data-mybatis" target="11" />
+      <module name="spring-boot-07-listener" target="11" />
+      <module name="spring-boot-07-listener1" target="11" />
+      <module name="spring-boot-11-cache" target="11" />
+      <module name="spring-boot-12-amqp" target="11" />
+      <module name="spring-boot-14-task" target="11" />
+      <module name="spring-boot-15-security" target="11" />
+      <module name="spring-boot-17-deply" target="11" />
+      <module name="spring-boot04-web-restfulcrud" target="11" />
+      <module name="zzz-spring-boot-starter" target="1.5" />
+      <module name="zzz-spring-boot-starter-autoconfigurare" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="spring-boot-01-helloworld-quick" options="-parameters" />
+      <module name="spring-boot-02-config" options="-parameters" />
+      <module name="spring-boot-02-config-02" options="-parameters" />
+      <module name="spring-boot-03-logging" options="-parameters" />
+      <module name="spring-boot-04-web-jsp" options="-parameters" />
+      <module name="spring-boot-04-web-restfulcrud" options="-parameters" />
+      <module name="spring-boot-04-web-restfulcrud1" options="-parameters" />
+      <module name="spring-boot-04-web-restfulcrud111111" options="-parameters" />
+      <module name="spring-boot-06-data-jdbc" options="-parameters" />
+      <module name="spring-boot-06-data-jpa" options="-parameters" />
+      <module name="spring-boot-06-data-mybatis" options="-parameters" />
+      <module name="spring-boot-07-listener" options="-parameters" />
+      <module name="spring-boot-07-listener1" options="-parameters" />
+      <module name="spring-boot-11-cache" options="-parameters" />
+      <module name="spring-boot-12-amqp" options="-parameters" />
+      <module name="spring-boot-14-task" options="-parameters" />
+      <module name="spring-boot-15-security" options="-parameters" />
+      <module name="spring-boot-17-deply" options="-parameters" />
+      <module name="spring-boot04-web-restfulcrud" options="-parameters" />
+      <module name="zzz-spring-boot-starter-autoconfigurare" options="-parameters" />
+    </option>
+  </component>
+</project>

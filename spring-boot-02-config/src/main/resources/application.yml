@@ -1,0 +1,44 @@
+server:
+  port: 8081
+  path: /hello
+spring:
+  profiles:
+    active: dev
+---
+server:
+  port: 8083
+spring:
+  profiles: dev
+---
+server:
+  port: 8084
+spring:
+  profiles: prod
+---
+#对象的写法
+friends:
+  lastName: zhangsan
+  age: 20
+
+friends2: {lastName: zhangsan, age: 21}
+
+#数组的写法
+pets:
+  - cat
+  - dog
+  - pig
+
+pets2: [cat, dag, pig]
+
+person1:
+  lastName: zzhangsan
+  age: 11
+  boss: flase
+  birth: 2020/12/1
+  maps: {k1: v1, k2: v2}
+  lists:
+    - lisi
+    - zhaoliu
+  dog:
+    name: hha
+    age: 12

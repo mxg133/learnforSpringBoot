@@ -1,0 +1,48 @@
+spring:
+  datasource:
+#   数据源基本配置
+    username: root
+    password: mklmklmkl
+    url: jdbc:mysql://localhost:3306/jap
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    type: com.alibaba.druid.pool.DruidDataSource
+    #   数据源其他配置
+    initialSize: 5
+    minIdle: 5
+    maxActive: 20
+    maxWait: 60000
+    timeBetweenEvictionRunsMillis: 60000
+    minEvictableIdleTimeMillis: 300000
+    validationQuery: SELECT 1 FROM DUAL
+    testWhileIdle: true
+    testOnBorrow: false
+    testOnReturn: false
+    poolPreparedStatements: true
+    #   配置监控统计拦截的filters，去掉后监控界面sql无法统计，'wall'用于防火墙
+    filters: stat,wall
+    maxPoolPreparedStatementPerConnectionSize: 20
+    useGlobalDataSourceStat: true
+    connectionProperties: druid.stat.mergeSql=true;druid.stat.slowSqlMillis=500
+#    引入sql文件
+#    initialization-mode: always
+#    schema:
+#      - classpath:sql/department.sql
+#      - classpath:sql/employee.sql
+
+#  jpa:
+#    hibernate:
+#      #     更新或者创建数据表结构
+#      ddl-auto: update
+#    #    控制台显示SQL
+#    show-sql: true
+#上下两个都可以
+  jpa:
+    # 配置 DBMS 类型
+    database: MYSQL
+    # 配置是否将执行的 SQL 输出到日志
+    show-sql: true
+    properties:
+      hibernate:
+        hbm2ddl:
+        # 配置开启自动更新表结构
+          auto: update

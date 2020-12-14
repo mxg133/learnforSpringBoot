@@ -1,0 +1,697 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e7244fd2-aad0-4eac-a7fb-5e3eb3fb1650" name="Default Changelist" comment="2020-12-13" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+        <option value="HTML File" />
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="1l5f2qMXAuuhD65BWPZNB2B0pk6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/src/main/java/com/xxx/springboot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/spring-boot-17-deply/src/main/resources/templates" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3218391" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/spring-boot-17-deply/src/main/java/com/zzz/deply" />
+      <recent name="$PROJECT_DIR$/spring-boot-12-amqp/src/main/java/com/zzz/springboot12amqp" />
+      <recent name="$PROJECT_DIR$/spring-boot-11-cache/src/main/java/com/zzz/springboot/config" />
+      <recent name="$PROJECT_DIR$/spring-boot-11-cache/src/main/java/com/zzz/springboot/service" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zzz.springboot.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/resources/sql" />
+      <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud4/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud3/src/main/resources/static" />
+      <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud2/src/main/resources/templates" />
+      <recent name="$PROJECT_DIR$/spring-boot-04-web-restfulcrud2/src/main/resources/static" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SpringBoot17DeplyApplication">
+    <configuration name="SpringBoot11CacheApplicationTests.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-11-cache" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzz.springboot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzz.springboot" />
+      <option name="MAIN_CLASS_NAME" value="com.zzz.springboot.SpringBoot11CacheApplicationTests" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12AmqpApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzz.springboot12amqp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzz.springboot12amqp" />
+      <option name="MAIN_CLASS_NAME" value="com.zzz.springboot12amqp.SpringBoot12AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12AmqpApplicationTests.createExchange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzz.springboot12amqp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzz.springboot12amqp" />
+      <option name="MAIN_CLASS_NAME" value="com.zzz.springboot12amqp.SpringBoot12AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="createExchange" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12AmqpApplicationTests.receive" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzz.springboot12amqp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzz.springboot12amqp" />
+      <option name="MAIN_CLASS_NAME" value="com.zzz.springboot12amqp.SpringBoot12AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="receive" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12AmqpApplicationTests.sendMsg" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="spring-boot-12-amqp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zzz.springboot12amqp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zzz.springboot12amqp" />
+      <option name="MAIN_CLASS_NAME" value="com.zzz.springboot12amqp.SpringBoot12AmqpApplicationTests" />
+      <option name="METHOD_NAME" value="sendMsg" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloWordMainApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloword" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.HelloWordMainApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot01HelloworldQuickApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-01-helloworld-quick" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot01helloworldquick.SpringBoot01HelloworldQuickApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02Config02Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config-02" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot02config02.SpringBoot02Config02Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot02ConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-02-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot02config.SpringBoot02ConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot03LoggingApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-03-logging" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot03logging.SpringBoot03LoggingApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebJspApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-jsp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot04WebJspApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot04WebRestfulcrud111111Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-04-web-restfulcrud111111" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot04.SpringBoot04WebRestfulcrud111111Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJdbcApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jdbc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot06DataJdbcApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataJpaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-jpa" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot06DataJpaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot06DataMybatisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-06-data-mybatis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot06DataMybatisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot07ListenerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-07-listener" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot07ListenerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot11CacheApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-11-cache" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot.SpringBoot11CacheApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot12AmqpApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-12-amqp" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.springboot12amqp.SpringBoot12AmqpApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot14TaskApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-14-task" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.task.SpringBoot14TaskApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot15SecurityApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-15-security" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.security.SpringBoot15SecurityApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringBoot17DeplyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-17-deply" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.zzz.deply.SpringBoot17DeplyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringBoot12AmqpApplicationTests.createExchange" />
+        <item itemvalue="JUnit.SpringBoot12AmqpApplicationTests.receive" />
+        <item itemvalue="JUnit.SpringBoot12AmqpApplicationTests.sendMsg" />
+        <item itemvalue="JUnit.SpringBoot12AmqpApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.SpringBoot11CacheApplicationTests.test02" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7244fd2-aad0-4eac-a7fb-5e3eb3fb1650" name="Default Changelist" comment="" />
+      <created>1606891668354</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606891668354</updated>
+      <workItem from="1606891671044" duration="2471000" />
+      <workItem from="1606895101452" duration="455000" />
+      <workItem from="1606896311099" duration="6219000" />
+      <workItem from="1606903536594" duration="332000" />
+      <workItem from="1606959166361" duration="707000" />
+      <workItem from="1606959894623" duration="9667000" />
+      <workItem from="1606977565968" duration="222000" />
+      <workItem from="1606982951165" duration="4968000" />
+      <workItem from="1607048806218" duration="864000" />
+      <workItem from="1607053246514" duration="1174000" />
+      <workItem from="1607065047312" duration="1054000" />
+      <workItem from="1607066142237" duration="396000" />
+      <workItem from="1607066543349" duration="1917000" />
+      <workItem from="1607068804191" duration="1184000" />
+      <workItem from="1607239925313" duration="3570000" />
+      <workItem from="1607244084639" duration="219000" />
+      <workItem from="1607244341555" duration="1574000" />
+      <workItem from="1607245943639" duration="639000" />
+      <workItem from="1607246598914" duration="2560000" />
+      <workItem from="1607302255789" duration="1371000" />
+      <workItem from="1607391375976" duration="5728000" />
+      <workItem from="1607400355642" duration="4149000" />
+      <workItem from="1607409986247" duration="4588000" />
+      <workItem from="1607415654575" duration="72000" />
+      <workItem from="1607416009182" duration="6952000" />
+      <workItem from="1607426674386" duration="16000" />
+      <workItem from="1607426733395" duration="1330000" />
+      <workItem from="1607482807823" duration="8260000" />
+      <workItem from="1607499215820" duration="476000" />
+      <workItem from="1607567243858" duration="15536000" />
+      <workItem from="1607589527981" duration="265000" />
+      <workItem from="1607589858438" duration="552000" />
+      <workItem from="1607665831967" duration="552000" />
+      <workItem from="1607666388816" duration="11342000" />
+      <workItem from="1607681591381" duration="2185000" />
+      <workItem from="1607746036577" duration="8322000" />
+      <workItem from="1607764082687" duration="3085000" />
+      <workItem from="1607861403519" duration="1000" />
+      <workItem from="1607910849732" duration="65000" />
+      <workItem from="1607914730427" duration="348000" />
+      <workItem from="1607917906496" duration="326000" />
+      <workItem from="1607918236461" duration="4000" />
+      <workItem from="1607918242636" duration="14000" />
+      <workItem from="1607918296125" duration="544000" />
+      <workItem from="1607918848360" duration="324000" />
+      <workItem from="1607919176689" duration="5000" />
+    </task>
+    <task id="LOCAL-00001" summary="2020-12-3">
+      <created>1606988266814</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606988266814</updated>
+    </task>
+    <task id="LOCAL-00002" summary="2020-12-3">
+      <created>1606990026948</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606990026948</updated>
+    </task>
+    <task id="LOCAL-00003" summary="2020-12-4">
+      <created>1607067839595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1607067839595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="2020-12-4">
+      <created>1607069958291</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1607069958291</updated>
+    </task>
+    <task id="LOCAL-00005" summary="2020-12-6">
+      <created>1607249200906</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1607249200906</updated>
+    </task>
+    <task id="LOCAL-00006" summary="2020-12-9">
+      <created>1607498557450</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1607498557451</updated>
+    </task>
+    <task id="LOCAL-00007" summary="2020-12-10">
+      <created>1607572638981</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1607572638981</updated>
+    </task>
+    <task id="LOCAL-00008" summary="2020-12-10">
+      <created>1607583196614</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1607583196614</updated>
+    </task>
+    <task id="LOCAL-00009" summary="2020-12-10">
+      <created>1607586655490</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607586655490</updated>
+    </task>
+    <task id="LOCAL-00010" summary="2020-12-10">
+      <created>1607586846493</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607586846493</updated>
+    </task>
+    <task id="LOCAL-00011" summary="2020-12-10">
+      <created>1607589581377</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607589581377</updated>
+    </task>
+    <task id="LOCAL-00012" summary="2020-12-10">
+      <created>1607590362247</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607590362247</updated>
+    </task>
+    <task id="LOCAL-00013" summary="2020-12-10">
+      <created>1607590383450</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607590383450</updated>
+    </task>
+    <task id="LOCAL-00014" summary="2020-12-11">
+      <created>1607688821817</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607688821817</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2020-12-12">
+      <created>1607756999456</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1607756999457</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2020-12-12">
+      <created>1607762859278</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1607762859279</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2020-12-13">
+      <created>1607860889292</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1607860889292</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="2020-12-3" />
+    <MESSAGE value="2020-12-4" />
+    <MESSAGE value="2020-12-6" />
+    <MESSAGE value="2020-12-9" />
+    <MESSAGE value="2020-12-10" />
+    <MESSAGE value="2020-12-11" />
+    <MESSAGE value="2020-12-12" />
+    <MESSAGE value="2020-12-13" />
+    <option name="LAST_COMMIT_MESSAGE" value="2020-12-13" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="708" y="107" key="#Inspections" timestamp="1607580453437">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="708" y="107" key="#Inspections/0.0.1440.900@0.0.1440.900" timestamp="1607580453437" />
+    <state x="708" y="121" key="#Inspections/0.23.1440.827@0.23.1440.827" timestamp="1607580308381" />
+    <state x="809" y="306" key="#Notifications" timestamp="1607244110247">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="809" y="306" key="#Notifications/0.23.1440.827@0.23.1440.827" timestamp="1607244110247" />
+    <state x="349" y="23" width="1024" height="827" key="#Project_Structure" timestamp="1607918687785">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="349" y="23" width="1024" height="827" key="#Project_Structure/0.23.1440.827@0.23.1440.827" timestamp="1607918687785" />
+    <state x="167" y="272" key="#SQL_Dialects" timestamp="1607569638970">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="167" y="272" key="#SQL_Dialects/0.23.1440.827@0.23.1440.827" timestamp="1607569638970" />
+    <state x="286" y="287" key="#SQL_Resolution_Scopes" timestamp="1607570136921">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="286" y="287" key="#SQL_Resolution_Scopes/0.23.1440.827@0.23.1440.827" timestamp="1607570136921" />
+    <state x="430" y="98" width="1010" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607919047724">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="430" y="98" width="1010" height="676" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.827@0.23.1440.827" timestamp="1607919047724" />
+    <state x="892" y="159" key="#com.intellij.ide.util.MemberChooser" timestamp="1607673333880">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="892" y="159" key="#com.intellij.ide.util.MemberChooser/0.23.1440.827@0.23.1440.827" timestamp="1607673333880" />
+    <state x="595" y="216" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1607497567828">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="595" y="216" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.23.1440.827@0.23.1440.827" timestamp="1607497567828" />
+    <state x="688" y="350" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1607497397007">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="688" y="350" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.23.1440.827@0.23.1440.827" timestamp="1607497397007" />
+    <state x="598" y="312" width="657" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1607247468968">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="598" y="312" width="657" height="256" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1440.827@0.23.1440.827" timestamp="1607247468968" />
+    <state x="742" y="340" key="Github.ShareDialog" timestamp="1607860769043">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="742" y="340" key="Github.ShareDialog/0.23.1440.827@0.23.1440.827" timestamp="1607860769043" />
+    <state x="493" y="141" key="Github.UntrackedFilesDialog" timestamp="1607860804621">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="493" y="141" key="Github.UntrackedFilesDialog/0.23.1440.827@0.23.1440.827" timestamp="1607860804621" />
+    <state width="683" height="157" key="GridCell.Tab.0.bottom" timestamp="1607919149715">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607668217511" />
+    <state width="683" height="157" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
+    <state width="683" height="157" key="GridCell.Tab.0.center" timestamp="1607919149714">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1607668217509" />
+    <state width="683" height="157" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
+    <state width="683" height="157" key="GridCell.Tab.0.left" timestamp="1607919149714">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1607668217508" />
+    <state width="683" height="157" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
+    <state width="683" height="157" key="GridCell.Tab.0.right" timestamp="1607919149714">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="335" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1607668217510" />
+    <state width="683" height="157" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1607919149714" />
+    <state width="683" height="157" key="GridCell.Tab.1.bottom" timestamp="1607919149716">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1036" height="195" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1607580589918" />
+    <state width="683" height="157" key="GridCell.Tab.1.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607919149716" />
+    <state width="683" height="157" key="GridCell.Tab.1.center" timestamp="1607919149715">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1036" height="195" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1607580589917" />
+    <state width="683" height="157" key="GridCell.Tab.1.center/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
+    <state width="683" height="157" key="GridCell.Tab.1.left" timestamp="1607919149715">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1036" height="195" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1607580589916" />
+    <state width="683" height="157" key="GridCell.Tab.1.left/0.23.1440.827@0.23.1440.827" timestamp="1607919149715" />
+    <state width="683" height="157" key="GridCell.Tab.1.right" timestamp="1607919149716">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1036" height="195" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1607580589917" />
+    <state width="683" height="157" key="GridCell.Tab.1.right/0.23.1440.827@0.23.1440.827" timestamp="1607919149716" />
+    <state width="668" height="195" key="GridCell.Tab.2.bottom" timestamp="1607499212542">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="668" height="195" key="GridCell.Tab.2.bottom/0.23.1440.827@0.23.1440.827" timestamp="1607499212542" />
+    <state width="668" height="195" key="GridCell.Tab.2.center" timestamp="1607499212542">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="668" height="195" key="GridCell.Tab.2.center/0.23.1440.827@0.23.1440.827" timestamp="1607499212542" />
+    <state width="668" height="195" key="GridCell.Tab.2.left" timestamp="1607499212541">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="668" height="195" key="GridCell.Tab.2.left/0.23.1440.827@0.23.1440.827" timestamp="1607499212541" />
+    <state width="668" height="195" key="GridCell.Tab.2.right" timestamp="1607499212542">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="668" height="195" key="GridCell.Tab.2.right/0.23.1440.827@0.23.1440.827" timestamp="1607499212542" />
+    <state x="463" y="98" key="Maven.ArtifactSearchDialog" timestamp="1607492717246">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="463" y="98" key="Maven.ArtifactSearchDialog/0.23.1440.827@0.23.1440.827" timestamp="1607492717246" />
+    <state x="514" y="143" width="902" height="587" key="NewModule_or_Project.wizard" timestamp="1607914831297">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="514" y="143" width="902" height="587" key="NewModule_or_Project.wizard/0.23.1440.827@0.23.1440.827" timestamp="1607914831297" />
+    <state x="416" y="23" width="1024" height="827" key="SettingsEditor" timestamp="1607918303311">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="416" y="23" width="1024" height="827" key="SettingsEditor/0.23.1440.827@0.23.1440.827" timestamp="1607918303311" />
+    <state width="200" height="441" key="SqlResolveConfigurable" timestamp="1607570131122">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="200" height="441" key="SqlResolveConfigurable/0.23.1440.827@0.23.1440.827" timestamp="1607570131122" />
+    <state width="648" height="447" key="SwitcherDM" timestamp="1607570315902">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="648" height="447" key="SwitcherDM/0.23.1440.827@0.23.1440.827" timestamp="1607570315902" />
+    <state x="640" y="176" key="Vcs.Push.Dialog.v2" timestamp="1607860901312">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="640" y="176" key="Vcs.Push.Dialog.v2/0.23.1440.827@0.23.1440.827" timestamp="1607860901312" />
+    <state x="570" y="221" key="chooseDestDirectoryDialog" timestamp="1607247377062">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="570" y="221" key="chooseDestDirectoryDialog/0.23.1440.827@0.23.1440.827" timestamp="1607247377062" />
+    <state x="480" y="335" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1607247397473">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="480" y="335" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.23.1440.827@0.23.1440.827" timestamp="1607247397473" />
+    <state x="415" y="172" width="916" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1607574409579">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="415" y="172" width="916" height="617" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.23.1440.827@0.23.1440.827" timestamp="1607574409579" />
+    <state x="540" y="23" width="792" height="604" key="dock-window-1" timestamp="1607399365976">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="540" y="23" width="792" height="604" key="dock-window-1/0.23.1440.827@0.23.1440.827" timestamp="1607399365976" />
+    <state x="578" y="103" width="862" height="665" key="new project wizard" timestamp="1607918466055">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="578" y="103" width="862" height="665" key="new project wizard/0.23.1440.827@0.23.1440.827" timestamp="1607918466055" />
+    <state x="687" y="174" width="670" height="676" key="search.everywhere.popup" timestamp="1607764581200">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state x="687" y="174" width="670" height="676" key="search.everywhere.popup/0.23.1440.827@0.23.1440.827" timestamp="1607764581200" />
+  </component>
+</project>

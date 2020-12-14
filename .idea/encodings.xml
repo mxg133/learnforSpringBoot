@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/spring-boot-01-helloword/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-01-helloworld-quick/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-02-config-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-02-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-03-logging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-04-web-jsp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-04-web-restfulcrud111111/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-06-data-jdbc/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-06-data-jpa/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-06-data-mybatis/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-07-listener/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-11-cache/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-12-amqp/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-task/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-14-task/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-15-security/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-15-security/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot-17-deply/src/main/java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

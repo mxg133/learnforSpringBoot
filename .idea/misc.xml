@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/spring-boot-04-web-jsp" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/spring-boot-01-helloword/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-01-helloworld-quick/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-02-config-02/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-03-logging/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud111111/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-04-web-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jdbc/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-06-data-jpa/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-07-listener/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-11-cache/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-12-amqp/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-14-task/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-15-security/pom.xml" />
+        <option value="$PROJECT_DIR$/spring-boot-17-deply/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/spring-boot-04-web-restfulcrud/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
