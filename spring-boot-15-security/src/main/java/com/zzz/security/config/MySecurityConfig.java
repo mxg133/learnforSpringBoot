@@ -17,7 +17,7 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
                 .antMatchers("/level2/**").hasRole("VIP2")
                 .antMatchers("/level3/**").hasRole("VIP3");
 
-        //开启自动配置的登陆功能，效果，如果没有登陆，没有权限就会来到登陆页面  注意 user pwd是与html页面对应的
+        //开启自动配置的登陆功能，效果，如果没有登陆，没有权限就会来到登陆页面
         http.formLogin().usernameParameter("user").passwordParameter("pwd")
                 .loginPage("/userlogin");
         //1、/login来到登陆页
@@ -32,7 +32,7 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
         //1、访问 /logout 表示用户注销，清空session
         //2、注销成功会返回 /login?logout 页面；
 
-        //开启记住我功能  注意 remembers是与html页面是对应的
+        //开启记住我功能
         http.rememberMe().rememberMeParameter("remember");
         //登陆成功以后，将cookie发给浏览器保存，以后访问页面带上这个cookie，只要通过检查就可以免登录
         //点击注销会删除cookie
@@ -49,5 +49,6 @@ public class MySecurityConfig extends WebSecurityConfigurerAdapter {
                 .withUser("lisi").password("123456").roles("VIP2","VIP3")
                 .and()
                 .withUser("wangwu").password("123456").roles("VIP1","VIP3");
+
     }
 }
